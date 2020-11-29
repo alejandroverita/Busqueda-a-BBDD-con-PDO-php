@@ -33,5 +33,5 @@ $busqueda=$_GET ['buscar'];
     }finally{
         $base=null;
     }
-
+//HACIENDO UNA PRUEBA
 ?>
