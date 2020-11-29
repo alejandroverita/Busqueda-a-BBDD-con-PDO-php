@@ -34,4 +34,5 @@ $busqueda=$_GET ['buscar'];
         $base=null;
     }
 //HACIENDO UNA PRUEBA
+//SEGUNDA PRUEBA 
 ?>
